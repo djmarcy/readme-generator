@@ -17,7 +17,7 @@ This readme generator will help you create professional README.md files quickly 
 
 ### Generator In Action
 
-![Readme Generator in action](./Assets/img/readme_gen.gif)
+![Readme Generator in action](./assets/img/readme_gen.gif)
 
 ## Installation
 
