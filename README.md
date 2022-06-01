@@ -17,7 +17,7 @@ This readme generator will help you create professional README.md files quickly 
 
 ### Generator In Action
 
-![Readme Generator in action](https://drive.google.com/file/d/1O-e1pyMjvqNH-E9OYYWfvwOmhwzC8-Eb/view)
+[Readme Generator in action](https://drive.google.com/file/d/1O-e1pyMjvqNH-E9OYYWfvwOmhwzC8-Eb/view)
 
 ## Installation
 
