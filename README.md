@@ -17,11 +17,11 @@ This readme generator will help you create professional README.md files quickly 
 
 ### Generator In Action
 
-![Readme Generator in action](./assets/img/readme_gen.gif)
+![Readme Generator in action](https://drive.google.com/file/d/1O-e1pyMjvqNH-E9OYYWfvwOmhwzC8-Eb/view)
 
 ## Installation
 
-Download and run "index.js" in Node.JS
+Download package, run "npm i" in the terminal to install dependencies, and then run "index.js" in the terminal to begin.
 
 ## Contributing
 
